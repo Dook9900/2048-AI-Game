@@ -49,4 +49,4 @@ Run the Python script, which can be done in different ways:
 You can press ‘Run’ at the top left of the editor window and select ‘Start Debugging’ or ‘Run without debugging’. 
 Or at the top right of the editor window, there may be a play button you can click to run the script.
 Or you can press Ctrl+` to open the terminal in VSCode. Type python 2048.py or python3 2048.py in the terminal and press Enter to execute the script.
-Or you can press F5 and select the Python file to start debugging.
+Or you can press F5 and select the Python file to start debugging. 
